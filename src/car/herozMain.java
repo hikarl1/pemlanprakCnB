@@ -8,8 +8,8 @@ package car;
  *
  * @author Aurel
  */
-import car.Herozmain;
-public class heroz {
+import car.Heroz;
+public class herozMain {
     public static void main(String[] args) {
         Herozmain batman, superman;
         
