@@ -26,7 +26,7 @@ public class Heroz {
         this.Attack = Attack;
     }
     
-    public void Heroz(){
+    public void infoHeroz(){
         System.out.println("Nama: " + Nama);
         System.out.println("Role :" + Role);
         System.out.println("HP: " + Hp);
