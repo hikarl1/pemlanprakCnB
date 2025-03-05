@@ -8,7 +8,7 @@ package car;
  *
  * @author Aurel
  */
-public class Herozmain {
+public class Heroz {
     //field
     public String Nama;
     public String Role;
@@ -16,17 +16,17 @@ public class Herozmain {
     public String Attack;
     
     //method
-    public Herozmain(){
+    public Heroz(){
     }
     
-    public Herozmain(String Nama, String Role, String Hp, String Attack){
+    public Heroz(String Nama, String Role, String Hp, String Attack){
         this.Nama = Nama;
         this.Role = Role;
         this.Hp = Hp;
         this.Attack = Attack;
     }
     
-    public void Herozmain(){
+    public void Heroz(){
         System.out.println("Nama: " + Nama);
         System.out.println("Role :" + Role);
         System.out.println("HP: " + Hp);
