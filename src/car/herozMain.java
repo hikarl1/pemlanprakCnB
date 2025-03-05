@@ -11,15 +11,15 @@ package car;
 import car.Heroz;
 public class herozMain {
     public static void main(String[] args) {
-        Herozmain batman, superman;
+        Heroz batman, superman;
         
-        batman = new Herozmain();
+        batman = new Heroz();
         batman.Nama = "Batman";
         batman.Role = "Fighter";
         batman.Hp = "17500";
         batman.Attack = "3000";
         
-        superman = new Herozmain();
+        superman = new Heroz();
         superman.Nama = "Superman";
         superman.Role = "Fighter";
         superman.Hp = "20000";
